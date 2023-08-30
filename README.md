@@ -15,3 +15,9 @@ Proses belajar menuju target mingguan (18%)
 Proses belajar menuju target mingguan (24%)
   - Memahami OOP pada python
   - Menyelesaikan final project
+
+## **30 Agsutus 2023**
+Deadline Coursera
+  - Introduction to Python
+  - Using Python to Interract OS
+  - Introduction to Git and Github
